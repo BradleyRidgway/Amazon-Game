@@ -1,2 +1,2 @@
 # Amazon-Game
-A price is right, price guessing game, using Amazon product listings.
+A 'The Price Is Right' clone, using Amazon product listings.
